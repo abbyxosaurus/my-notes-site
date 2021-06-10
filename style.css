@@ -433,4 +433,36 @@ body {
         user-select: none;
     }
 
+    @media only screen and (max-width: 290px){
+	.background{
+		background-image: url('img/bg.jpg')
+	}
+
+	.head{
+		font-size:23px;
+	}
+
+	.text-center{
+		font-size:23px;
+	}
+	
+
+	.nav-list{
+		font-size: 24px;
+		margin-left: 0;
+	}
+	.sub-list{
+		margin-left: -240px;
+		width: auto;
+	}
+	.aboutpara{
+		height: 500px;
+        color: #202020;
+       font-family: 'Droid serif', serif;
+       font-size: 22px;
+       text-align: center;
+       padding: 40px 30px;
+	}
+	
+
 

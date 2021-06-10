@@ -302,7 +302,10 @@ body {
 	    -moz-user-select:none;
 	    -ms-user-select:none;
         user-select: none;
-	}
+    }
+
+}
+
    
 
 @media screen and (max-width: 1140px){

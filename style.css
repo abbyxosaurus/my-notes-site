@@ -393,7 +393,7 @@ body {
 
 
 
-	@media only screen and (max-width: 327px){
+	@media only screen and (max-width: 330px){
 	.background{
 		background-image: url('img/bg.jpg')
 	}
@@ -416,7 +416,12 @@ body {
 		width: auto;
 	}
 	.aboutpara{
-		font-size: 22px;
+		height: 500px;
+        color: #202020;
+       font-family: 'Droid serif', serif;
+       font-size: 22px;
+       text-align: center;
+       padding: 40px 30px;
 	}
 	.no_highlight{
 	    -webkit-tap-highlight-color : transparent;

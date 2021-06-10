@@ -359,10 +359,6 @@ body {
     }
 
 
-
-}
-
-
 @media only screen and (max-width: 415px){
 	.background{
 		background-image: url('img/bg.jpg')
@@ -395,7 +391,6 @@ body {
         user-select: none;
     }
 
-}
 
 
 	@media only screen and (max-width: 327px){
@@ -433,4 +428,4 @@ body {
         user-select: none;
     }
 
-}
+

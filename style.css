@@ -139,7 +139,7 @@ body {
 	background-color:#282e34;
 	color:#ddd;
 	justify-content: center;
-    height: 949px;
+    height: 968px;
 	text-align: center;
 	padding:30px;
 }
@@ -406,6 +406,7 @@ body {
 	.sub-list{
 		margin-left: -240px;
 		width: auto;
+		padding: 15px 3px;
 	}
 	.aboutpara{
 		height: 500px;
